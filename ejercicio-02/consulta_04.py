@@ -1,3 +1,4 @@
+#Presentar los países ordenados por la capital, siempre que el país pertenezca a Europa
 from sqlalchemy.orm import sessionmaker
 from crear_base import Pais
 from configuracion import engine

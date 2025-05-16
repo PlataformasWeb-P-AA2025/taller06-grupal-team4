@@ -1,3 +1,4 @@
+#Presentar todos los países que tengan en su cadena de nombre de país "uador" o en su cadena de capital "ito".
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import or_
 from crear_base import Pais
